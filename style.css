@@ -1,0 +1,18 @@
+h2 {text-align: center; margin-top: 250px; 
+ }
+html {background-image: url("back.jpeg") ;
+    background-size: 1500px; }
+    .fbox {
+        display: flex;
+        align-items: auto;
+        width: 100px;
+        padding-left: 350PX;
+        font-family: 'Times New Roman', Times, serif;
+      }
+      .tab {
+        background-color:rgba(199, 152, 232, 0.643);
+        border: 1px solid rgb(114, 27, 160);
+        border-radius: 5px; padding: 10px; padding-left: 100px;
+        padding-right: 100px;
+      }
+ <!--when in iphone mode picture duplicates, also my top tabs wont move with the web -->     
