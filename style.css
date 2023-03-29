@@ -1,0 +1,57 @@
+.header {
+    overflow: hidden;
+    background-color: #d98422;
+    padding: 20px 10px;
+    text-align: center;
+    word-spacing: 100px;
+    
+    
+    
+
+  }
+  .header a {
+    float: center;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+  } 
+  .header a:hover {
+    background-color: #FFD09D;
+    color: black;
+  }
+  html {background-color: #FFD09D;}
+body{margin:0px; padding:0px;}
+.name {text-align: center;
+margin-top: 250px;}
+.about {text-align: center;}
+.aboutmetxt {font-size: larger; padding-right: 100px;
+padding-left: 100px;}
+img {
+    width: 20%;
+    height: 40%;
+  }
+.portfolio {text-align: center;}
+.bottom { overflow: hidden;
+    background-color: #d98422;
+    padding: 20px 10px;
+    text-align: center;
+    margin-top: 350px;
+    
+
+}
+.bottom a {
+    float: center;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+  } 
+  .bottom a:hover {
+    background-color: #FFD09D;
+    color: black;
+  }
