@@ -175,5 +175,5 @@ textarea:hover {
   rotate: 10deg;
   left: 120px;
   top: 240px;
-  z-index: -1;
+  z-index: -2;
 }
